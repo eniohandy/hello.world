@@ -6,7 +6,7 @@ Testes
 
 #obs
 
-Etc...
+
 
 
 Essa linha vem do branch. Vamos fazer o merge.
